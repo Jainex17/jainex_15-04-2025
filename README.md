@@ -58,3 +58,8 @@ uvicorn app.main:app
 ```
 celery -A app.api.celery_worker.celery_app worker --pool=solo
 ```
+
+
+![image](https://github.com/user-attachments/assets/a3bc1fc7-2424-45df-bb56-cf01bc2046d7)
+
+![image](https://github.com/user-attachments/assets/f1f83e19-a076-4b1d-adee-4e15de4b8fb7)
