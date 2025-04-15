@@ -1,0 +1,5 @@
+store_id,hour_uptime,hour_downtime,day_uptime,day_downtime,week_uptime,week_downtime
+1,0.0,60.0,14.4,9.6,100.8,67.2
+2,0.0,0.0,14.4,9.6,100.8,67.2
+3,0.0,0.0,12.0,12.0,84.0,84.0
+4,0.0,60.0,14.4,9.6,100.8,67.2
